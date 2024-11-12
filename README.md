@@ -12,17 +12,17 @@
 ##### [Schematic diagram of the data analysis process.]
 ---
 
-+ #### 1_Seurat_Pipeline.R
-  + ##### This script includes code for data preprocessing (QC, filtering, etc.), integration, dimensionality reduction, clustering, marker gene identification, and cell type assignment, following the Seurat pipeline.
++ ### 1_Seurat_Pipeline.R
+  + #### This script includes code for data preprocessing (QC, filtering, etc.), integration, dimensionality reduction, clustering, marker gene identification, and cell type assignment, following the Seurat pipeline.
 
-+ #### 2_Subset_Clustering.R
++ ### 2_Subset_Clustering.R
   + #### This script includes code for subsetting and clustering E13.5 otic-associated cells.
 
-+ #### 3_hdWGCNA.R
++ ### 3_hdWGCNA.R
   + #### This script includes code for co-expression network analysis, module eigengenes and connectivity and visualization using hdWGCNA.
  
-+ #### 4_Foxg1_Gata3_Network.R
++ ### 4_Foxg1_Gata3_Network.R
   + #### This script includes code for correlation analysis of Foxg1 and Gata3, network analysis using modules from the previous hdWGCNA, and visualization.
 
-+ #### 5_Gene_Ontology.R
++ ### 5_Gene_Ontology.R
   + #### This script includes code for Gene Ontology analysis (Biological Process) and visualization of genes related to modules, as well as genes highly correlated with Foxg1 and Gata3.
