@@ -3,9 +3,13 @@
 ---
 ##### This repository contains the code used for the analysis and visualization in the paper.
 
+<img width="614" alt="Foxg1_Summary" src="https://github.com/user-attachments/assets/b2c508f7-633d-4b84-b48e-824f4d49535b">
+
+##### [Schematic summary.]
+
 <img width="1384" alt="Foxg1_Pipeline" src="https://github.com/user-attachments/assets/74d3671c-2db8-420e-bd54-ae6e9629ef6c">
 
-##### [Schematic diagram of the single cell RNA sequencing process.]
+##### [Schematic diagram of the data analysis process.]
 ---
 
 + #### 1_Seurat_Pipeline.R
