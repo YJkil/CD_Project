@@ -4,6 +4,7 @@
 ##### This repository contains the code used for the analysis and visualization in the paper.
 
 <img width="1384" alt="Foxg1_Pipeline" src="https://github.com/user-attachments/assets/74d3671c-2db8-420e-bd54-ae6e9629ef6c">
+##### [Schematic diagram of the single cell RNA sequencing process.]
 
 + #### 1_Seurat_Pipeline.R
   + ##### This script includes code for data preprocessing (QC, filtering, etc.), integration, dimensionality reduction, clustering, marker gene identification, and cell type assignment, following the Seurat pipeline.
