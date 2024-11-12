@@ -1,0 +1,184 @@
+﻿Gene,Curated Disease Association,Inheritance,Classification
+ABHD12,PHARC,AR,Definitive
+ACTG1,Baraitser-Winter syndrome,AD,Definitive
+ACTG1,NSHL,AD,Definitive
+ADCY1,NSHL,AR,Limited
+ADGRV1,Usher syndrome,AR,Definitive
+ADGRV1,NSHL,AR,Refuted
+AIFM1,Auditory neuropathy spectrum disorder,XL,Definitive
+ATP6V1B1,Renal tubular acidosis with deafness,AR,Definitive
+BCS1L,Bjornstad syndrome,AR,Definitive
+BDP1,NSHL,AR,Limited
+BSND,Bartter syndrome,AR,Definitive
+CABP2,NSHL,AR,Strong
+CACNA1D,Sinoatrial node dysfunction and deafness,AR,Moderate
+CCDC50,NSHL,AD,Limited
+CD164,NSHL,AD,Limited
+CDC14A,NSHL,AR,Limited
+CDC14A,Hearing impairment and infertile male syndrome (HIIMS),AR,Strong
+CDH23,Usher syndrome,AR,Definitive
+,NSHL,AR,Definitive
+CEACAM16,NSHL,AD,Moderate
+CEP78,Cone-rod dystrophy and hearing loss,AR,Strong
+CHD7,CHARGE syndrome,AD,Definitive
+CIB2,NSHL,AR,Definitive
+CIB2,Usher syndrome,AR,Refuted
+CISD2,Wolfram syndrome,AR,Strong
+CLDN14,NSHL,AR,Definitive
+CLIC5,NSHL,AR,Moderate
+CLPP,Perrault syndrome,AR,Definitive
+CLRN1,Usher syndrome,AR,Definitive
+COCH,NSHL,AD,Definitive
+COL11A2,Otospondylomegaepiphyseal dysplasia,AR,Definitive
+COL11A2,Otospondylomegaepiphyseal dysplasia,AD,Definitive
+COL11A2,NSHL,AR,Moderate
+COL11A2,NSHL,AD,Moderate
+COL4A5,Alport syndrome,XL,Definitive
+COL4A6,NSHL,XL,Limited
+COL9A2,Stickler syndrome,AR,Limited
+CRYM,NSHL,AD,Limited
+DCDC2,NSHL,AR,Limited
+DIABLO,NSHL,AD,Limited
+DIAPH1,ADHL and macrothrombocytopenia,AD,Definitive
+DIAPH3,Auditory neuropathy spectrum disorder,AD,Moderate
+DMXL2,NSHL,AD,Moderate
+DNMT1,DNMT1 methylopathy,AD,Definitive
+DSPP,Dentinogenesis imperfecta,AD,Definitive
+EDN3,Waardenburg syndrome,AR,Limited
+EDN3,Waardenburg syndrome,AD,Moderate
+EDNRB,Waardenburg syndrome,AR,Limited
+EDNRB,Waardenburg syndrome,AD,Moderate
+ELMOD3,NSHL,AR,Limited
+EPS8,NSHL,AR,Moderate
+EPS8L2,NSHL,AR,Moderate
+ESPN,NSHL,AR,Definitive
+ESPN,NSHL,AD,Limited
+ESRRB,NSHL,AR,Definitive
+EYA1,Branchio-oto-renal syndrome,AD,Definitive
+EYA4,NSHL,AD,Definitive
+FGF3,LAMM syndrome,AR,Definitive
+FOXI1,Enlarged vestibular aqueduct syndrome,AR,Disputed
+FOXI1,Hearing loss and distal tubular acidosis,AR,Limited
+GATA3,"Hypoparathyroidism, SNHL, and renal dysplasia",AD,Definitive
+GIPC3,NSHL,AR,Definitive
+GJA1,NSHL,AD,Disputed
+GJB2,NSHL,AR,Definitive
+GJB2,Skin phenotype and HL,AD,Definitive
+GJB3,NSHL,AD,Disputed
+GJB3,Erythrokeratodermia variabilis,AD,Strong
+GJB6,Hidrotic ectodermal dysplasia,AD,Definitive
+GJB6,NSHL,AR,Refuted
+GPSM2,Chudley-McCullough syndrome,AR,Definitive
+GRHL2,NSHL,AD,Strong
+GRXCR1,NSHL,AR,Definitive
+GRXCR2,NSHL,AR,Moderate
+GSDME,NSHL,AD,Definitive
+HARS,Usher syndrome,AR,Refuted
+HARS2,Perrault syndrome,AR,Limited
+HGF,NSHL,AR,Moderate
+HOMER2,NSHL,AD,Moderate
+HSD17B4,Perrault syndrome,AR,Definitive
+ILDR1,NSHL,AR,Definitive
+KARS,NSHL,AR,Limited
+KCNE1,Jervell and Lange-Nielsen syndrome,AR,Moderate
+KCNJ10,EVA,AR,Disputed
+KCNQ1,Jervell and Lange-Nielsen syndrome,AR,Definitive
+KCNQ4,NSHL,AD,Definitive
+KIAA1199,NSHL,AR,Disputed
+KITLG,NSHL,AD,Limited
+LARS2,Perrault syndrome,AR,Strong
+LHFPL5,NSHL,AR,Definitive
+LOXHD1,NSHL,AR,Definitive
+LRTOMT,NSHL,AR,Definitive
+MARVELD2,NSHL,AR,Definitive
+MCM2,NSHL,AD,Limited
+MET,NSHL,AR,Limited
+MIR96,NSHL,AD,Moderate
+MITF,Waardenburg syndrome,AD,Definitive
+MSRB3,NSHL,AR,Moderate
+MT-RNR1,Mitochondrial non-syndromic sensorineural deafness with susceptibility to aminoglycoside exposure–Mitochondrial inheritance,mitochondrial,Definitive
+MT-TS1,Mitochondrial non-syndromic sensorineural deafness ,mitochondrial,Definitive
+MYH14,NSHL,AD,Moderate
+MYH9,MYH9-Related Disorder,AD,Definitive
+MYO15A,NSHL,AR,Definitive
+MYO1A,NSHL,AD,Refuted
+MYO1C,NSHL,AD,Disputed
+MYO1F,NSHL,AD,Disputed
+MYO3A,NSHL,AR,Strong
+MYO6,NSHL,AD,Definitive
+MYO7A,Usher syndrome,AR,Definitive
+MYO7A,NSHL,AD,Definitive
+NARS2,NSHL,AR,Limited
+OSBPL2,NSHL,AD,Moderate
+OTOA,NSHL,AR,Definitive
+OTOF,Auditory neuropathy spectrum disorder,AR,Definitive
+OTOG,NSHL,AR,Definitive
+OTOGL,NSHL,AR,Definitive
+P2RX2,NSHL,AD,Moderate
+PAX3,Waardenburg syndrome,AD,Definitive
+PCDH15,Usher syndrome,AR,Definitive
+PCDH15,NSHL,AR,Limited
+PDZD7,NSHL,AR,Definitive
+PJVK,NSHL,AR,Definitive
+PNPT1,NSHL,AR,Limited
+POU3F4,NSHL,XL,Definitive
+POU4F3,NSHL,AD,Definitive
+PRPS1,PRPS1-deficiency,XL,Definitive
+PRPS1,PRPS1-superactivity,XL,Limited
+PTPRQ,NSHL,AR,Definitive
+RDX,NSHL,AR,Definitive
+RIPOR2,NSHL,AR,Moderate
+ROR1,Hearing loss and auditory neuropathy,AR,Limited
+S1PR2,NSHL,AR,Strong
+SERPINB6,NSHL,AR,Moderate
+SIX1,Branchio-oto-renal syndrome,AD,Definitive
+SIX5,Branchio-oto-renal syndrome,AD,Disputed
+SLC17A8,NSHL,AD,STRONG
+SLC26A4,Pendred Syndrome,AR,Definitive
+SLC26A5,NSHL,AR,Limited
+SLC44A4,NSHL,AD,Limited
+SLC52A2,Brown-Vialetto-Van Laere syndrome,AR,Definitive
+SLC52A3,Brown-Vialetto-Van Laere syndrome,AR,Definitive
+SLITRK6,Deafness and myopia,AR,Strong
+SMPX,NSHL,XL,Definitive
+SNAI2,Waardenburg syndrome,AR,Limited
+SOX10,Waardenburg syndrome,AD,Definitive
+STRC,NSHL,AR,Definitive
+SYNE4,NSHL,AR,Moderate
+TBC1D24,NSHL,AD,Limited
+TBC1D24,DOORS syndrome,AR,Definitive
+TECTA,NSHL,AR,Definitive
+TECTA,NSHL,AD,Definitive
+TIMM8A,Mohr-Tranebjarg syndrome,XL,Definitive
+TJP2,NSHL,AD,Limited
+TMC1,NSHL,AR,Definitive
+TMC1,NSHL,AD,Definitive
+TMEM132E,NSHL,AR,Limited
+TMIE,NSHL,AR,Definitive
+TMPRSS3,NSHL,AR,Definitive
+TMTC2,NSHL,AD,Disputed
+TNC,NSHL,AD,Limited
+TPRN,NSHL,AR,Definitive
+TRIOBP,NSHL,AR,Definitive
+TSPEAR,NSHL,AR,Disputed
+TUBB4B,Leber congenital amaurosis,AD,Moderate
+USH1C,Usher syndrome,AR,Definitive
+USH1C,NSHL,AR,Limited
+USH1G,Usher syndrome,AR,Definitive
+USH1G,NSHL,AR,Limited
+USH2A,Usher syndrome,AR,Definitive
+WBP2,NSHL,AR,Limited
+WFS1,Wolfram syndrome,AD,Definitive
+WFS1,"AD Neonatal-onset diabetes, congenital sensorineural deafness, and congenital cataracts",AD,Definitive
+WFS1,WFS1-like syndrome,AR,Strong
+WHRN,Usher syndrome,AR,Definitive
+WHRN,NSHL,AR,Moderate
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
