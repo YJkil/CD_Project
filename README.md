@@ -3,7 +3,7 @@
 ---
 ##### This repository contains the code used for the analysis and visualization in the paper.
 
-<img width="614" alt="Foxg1_Summary" src="https://github.com/user-attachments/assets/b2c508f7-633d-4b84-b48e-824f4d49535b">
+<img width="1384" alt="Foxg1_Summary" src="https://github.com/user-attachments/assets/b2c508f7-633d-4b84-b48e-824f4d49535b">
 
 ##### [Schematic summary.]
 
