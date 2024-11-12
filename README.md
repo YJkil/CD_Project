@@ -17,3 +17,12 @@
 
 + #### 2_Subset_Clustering.R
   + #### This script includes code for subsetting and clustering E13.5 otic-associated cells.
+
++ #### 3_hdWGCNA.R
+  + #### This script includes code for co-expression network analysis, module eigengenes and connectivity and visualization using hdWGCNA.
+ 
++ #### 4_Foxg1_Gata3_Network.R
+  + #### This script includes code for correlation analysis of Foxg1 and Gata3, network analysis using modules from the previous hdWGCNA, and visualization.
+
++ #### 5_Gene_Ontology.R
+  + #### This script includes code for Gene Ontology analysis (Biological Process) and visualization of genes related to modules, as well as genes highly correlated with Foxg1 and Gata3.
