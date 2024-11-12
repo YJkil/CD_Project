@@ -5,7 +5,7 @@
 
 <img width="1384" alt="Foxg1_Pipeline" src="https://github.com/user-attachments/assets/74d3671c-2db8-420e-bd54-ae6e9629ef6c">
 
-##### Schematic diagram of the single cell RNA sequencing process.
+##### [Schematic diagram of the single cell RNA sequencing process.]
 ---
 
 + #### 1_Seurat_Pipeline.R
