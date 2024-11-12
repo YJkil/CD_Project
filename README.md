@@ -13,6 +13,7 @@
 ---
 
 + ### 1_Seurat_Pipeline.R
++ 
   + #### This script includes code for data preprocessing (QC, filtering, etc.), integration, dimensionality reduction, clustering, marker gene identification, and cell type assignment, following the Seurat pipeline.
 
 + ### 2_Subset_Clustering.R
