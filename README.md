@@ -31,10 +31,10 @@
 + ### **6_HL_Association.R**
   + #### This script includes code for enrichment analysis to identify overlapping genes between genes in each module and those in the Hearing Loss database (Clingen), pairwise correlation analysis among HL-related genes, and visualization.
 
-+ ### 7_Visualization.R**
++ ### **7_Visualization.R**
   + #### This script includes code for UMAP visualization by cell type, stage, and reference, dot plots displaying marker gene expression by cell type, and feature plots showing the expression of otic-associated markers.
  
-+ ### Hearing_Loss_Genes_Clingen.csv**
++ ### **Hearing_Loss_Genes_Clingen.csv**
   + #### This file includes hearing loss-related genes from the Clingen database.
   + #### DiStefano, M.T.; Hughes, M.Y.; Patel, M.J.; Wilcox, E.H.; Oza, A.M. Expert interpretation of genes and variants in hereditary hearing loss. Medizinische Genetik 2020, 32, 109-115, doi:10.1515/medgen-2020-2018.
 ---
