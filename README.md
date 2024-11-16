@@ -3,11 +3,12 @@
 ---
 #### This repository contains the code used for the analysis and visualization in the paper.
 
-<img width="1384" alt="Foxg1_Summary" src="https://github.com/user-attachments/assets/b2c508f7-633d-4b84-b48e-824f4d49535b">
+<img width="1384" alt="Foxg1_Summary2" src="https://github.com/user-attachments/assets/ed58bf65-d798-4d33-9265-7652a9c28818">
 
 #### [Schematic summary.]
 
-<img width="1384" alt="Foxg1_Pipeline" src="https://github.com/user-attachments/assets/74d3671c-2db8-420e-bd54-ae6e9629ef6c">
+<img width="1384" alt="Foxg1_Pipeline2" src="https://github.com/user-attachments/assets/35bccedb-450c-4809-b323-df24623161f4">
+
 
 #### [Schematic diagram of the data analysis process.]
 ---
